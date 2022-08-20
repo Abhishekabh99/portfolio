@@ -32,17 +32,12 @@ const About = () => {
           <small>10+ completed projects</small>
           </article> 
         </div>
-
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima fugiat deleniti facilis similique sunt, quibusdam nobis quaerat voluptas sint provident sit nihil dolorum dignissimos! Explicabo harum obcaecati ipsam eaque neque?
         </p>
-
-        <a href="#contact" className='btn btn-primary'>Let's Talk</a>
       </div>
-
     </div>
    </section>
   )
 }
-
 export default About
