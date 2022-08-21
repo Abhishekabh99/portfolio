@@ -59,8 +59,7 @@ const testimonials = () => {
           </div>
           <h5 className="client__name">{name1}</h5>
             <small className="client__review">{review}</small>
-        </SwiperSlide>
-       
+        </SwiperSlide>       
         )
       }
       )

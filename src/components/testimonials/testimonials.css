@@ -56,4 +56,8 @@ width: 40%;
     }
 
 
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    background: var(--color-primary);
+
+}
 
