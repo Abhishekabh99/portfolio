@@ -71,8 +71,14 @@ input, textarea {
     gap: 2rem;
   }
 
+  @media  (min-width:1024px), screen and (max-width:1450px) {
 
+    .contact__options {
+     width: 115%;
+    
     }
+    }
+}
     
     /* ================ Media Queries (Small Devices) ================== */
     
